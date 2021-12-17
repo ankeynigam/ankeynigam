@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qDTGLegxc3OhYQ76n6GComvbXFNc7Swn/view?usp=sharing](https://drive.google.com/file/d/1qDTGLegxc3OhYQ76n6GComvbXFNc7Swn/view?usp=sharing)
 
-- ⚡ Fun fact: **Jack of many things, Ace in None ;). But always learning to change that Ace from None to One++ **
+- ⚡ Fun fact: **Jack of many things, Ace in None. But always learning to change that Ace from None to One++ ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
