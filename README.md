@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ankit Nigam</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently getting involved more into **Microservices Architecture & Docker**
 
-- 💬 Ask me about **Java, Spring, MQ, Design Patterns**
+- 💬 Ask me about **Java, Spring, MQ, Design Patterns, Jboss**
 
 - 📫 How to reach me **ankeynigam@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qDTGLegxc3OhYQ76n6GComvbXFNc7Swn/view?usp=sharing](https://drive.google.com/file/d/1qDTGLegxc3OhYQ76n6GComvbXFNc7Swn/view?usp=sharing)
 
-- ⚡ Fun fact **Jack of many things, Ace in None ;)**
+- ⚡ Fun fact: **Jack of many things, Ace in None ;). But always learning to change that Ace from None to One++ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
